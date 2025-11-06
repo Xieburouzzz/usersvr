@@ -54,7 +54,7 @@ docker run -d \
   -v /path/to/logs:/logs \
   -e TZ=Asia/Shanghai \
   --restart unless-stopped \
-  usersvr:1.0.0
+  xieburouzzz/usersvr:1.0.0
 ```
 
 ## 技术支持
