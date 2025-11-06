@@ -59,8 +59,9 @@ docker run -d \
 
 ## 技术支持
 
-- **问题反馈** 提交Issue
 - **功能建议** 提交PR
+- **问题反馈** 提交Issue
+- **邮件联系** Luxdongzzz@gmail.com
 
 ---
 
