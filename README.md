@@ -48,7 +48,7 @@
 ```bash
 docker run -d \
   --name usersvr \
-  -p 5050:5050 \
+  -p 505:505 \
   -v /path/to/data:/data \
   -v /path/to/configs:/configs \
   -v /path/to/logs:/logs \
