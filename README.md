@@ -61,6 +61,7 @@ docker run -d \
 
 - **功能建议** 提交PR
 - **问题反馈** 提交Issue
+- **TG 群组** https://t.me/usersvr⁠
 - **邮件联系** Luxdongzzz@gmail.com
 
 ---
